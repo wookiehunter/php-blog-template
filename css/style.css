@@ -1,0 +1,13 @@
+.pager li .active_link {
+    background-color: #00796b !important;
+    color: #fff !important;
+}
+
+.navbar {
+    background-color: #00796b !important;
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-nav li a {
+    color: #fff !important;
+}
